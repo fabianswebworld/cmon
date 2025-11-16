@@ -1,0 +1,4 @@
+Ausgehende Anrufe: datum;CALL;ConnectionID;Nebenstelle;GenutzteNummer;AngerufeneNummer;
+Eingehende Anrufe: datum;RING;ConnectionID;Anrufer-Nr;Angerufene-Nummer;
+Zustandegekommene Verbindung: datum;CONNECT;ConnectionID;Nebenstelle;Nummer;
+Ende der Verbindung: datum;DISCONNECT;ConnectionID;dauerInSekunden;
