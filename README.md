@@ -39,4 +39,6 @@ Das Programm ist kostenlos und darf (im Binary) unverändert gerne weitergegeben
 
 Ich übernehme keinerlei Haftung für die Funktion des Programms oder für aus dem Gebrauch des Programms entstehende Schäden jeglicher Art.
 
+FRITZ!Box und FRITZ!Box Fon sind eingetragene Markenzeichen der AVM GmbH, Berlin. Die Nutzung dieser Begriffe im vorliegenden Werk dient ausschließlich zu Dokumentationszwecken.
+
 (c) 2008, 2009, 2013 Fabian Schneider - www.fabianswebworld.de
